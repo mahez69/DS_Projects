@@ -4,7 +4,7 @@ Energy efficiency: This study looked into assessing the heating load and cooling
 
 Goal: Use some base Regression models and ensemble and compare r2_score.
 
-Adding cooling load and heating load can define the overall load of the apartment. Study the trend of overall load and divide it into three classes, low efficient, high efficient and average efficient. Then train a deep learning model to predict the label.
+Adding cooling load and heating load can define the overall load of the apartment. Study the trend of overall load and divide it into three classes, low efficient, high efficient and average efficient. Then train a classification models to predict the label.
 
 
 Data Set Information:
